@@ -370,6 +370,7 @@ The system maintains 10/10 code quality through:
 ## Available Commands
 
 - `/systemcc` - Universal entry point with intelligent routing (ALL YOU NEED)
+- `/plan-opus` - Deep planning with parallel exploration before implementation (uses Claude Opus)
 - `/help` - Show all available commands
 - `/analyzecc` - Manual project re-analysis (rarely needed)
 
@@ -524,6 +525,7 @@ The enhanced system automatically:
 
 ## Manual Commands (Power Users)
 
+- `/plan-opus` - Deep planning with parallel exploration (uses Claude Opus for thorough analysis)
 - `/taskit` - Force phase-based execution with quality validation
 - `/orchestrated` - Force streamlined workflow with error handling
 - `/planner` - Start complete system with comprehensive validation
